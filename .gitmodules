@@ -1,0 +1,9 @@
+[submodule "third-party/ceres"]
+	path = third-party/ceres
+	url = https://ceres-solver.googlesource.com/ceres-solver
+[submodule "third-party/eigen"]
+	path = third-party/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "third-party/opencv"]
+	path = third-party/opencv
+	url = https://github.com/opencv/opencv.git
